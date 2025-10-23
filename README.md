@@ -1,36 +1,13 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/91166097/504730396-b152c96c-8c60-43ac-a513-ed462dbe7bd9.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEyMjQxNDksIm5iZiI6MTc2MTIyMzg0OSwicGF0aCI6Ii85MTE2NjA5Ny81MDQ3MzAzOTYtYjE1MmM5NmMtOGM2MC00M2FjLWE1MTMtZWQ0NjJkYmU3YmQ5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDIzVDEyNTA0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY5Y2YxNDIyMzA3MDIxZTQ0OTg1ZDc5NzU2MWFiMGQ0YzhlM2IyZGExZjUwZGEwNzkwYTI4Y2Y4YjY0OTkyNTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.l2F0Pb2C8xKYKmvk3T9M0r77NSjf4BIiBP-2HjW8rVA" alt="프로젝트 로고" width="120" />
+</p>
 
-## Getting Started
+<h1 align="center">하나당고</h1>
 
-First, run the development server:
+<p align="center">
+  <a href="https://ooleem.atlassian.net/wiki/x/BYC5AQ" target="_blank">프로젝트 개요 바로가기</a> 
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<p align="center">
+  <sub>개발 중</sub>
+</p>
