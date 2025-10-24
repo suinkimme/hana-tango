@@ -5,7 +5,7 @@
 <h1 align="center">하나당고</h1>
 
 <p align="center">
-  <a href="https://ooleem.atlassian.net/wiki/x/BYC5AQ" target="_blank">프로젝트 개요</a> · <a href="https://ooleem.atlassian.net/wiki/x/AoDEAQ" target="_blank">요구사항 정의서</a>
+  <a href="https://ooleem.atlassian.net/wiki/x/BYC5AQ" target="_blank">프로젝트 개요</a> · <a href="https://ooleem.atlassian.net/wiki/x/AoDEAQ" target="_blank">요구사항 정의서</a> · <a href="https://www.figma.com/design/itbu4ozx99Cxe53EijhGum/%ED%95%98%EB%82%98%EB%8B%B9%EA%B3%A0?node-id=0-1&t=cKkkrtTm6AVCrBY5-1" target="_blank">Figma</a>
 </p>
 
 <p align="center">
