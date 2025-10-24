@@ -5,7 +5,7 @@
 <h1 align="center">하나당고</h1>
 
 <p align="center">
-  <a href="https://ooleem.atlassian.net/wiki/x/BYC5AQ" target="_blank">프로젝트 개요 바로가기</a> 
+  <a href="https://ooleem.atlassian.net/wiki/x/BYC5AQ" target="_blank">프로젝트 개요</a> · <a href="https://ooleem.atlassian.net/wiki/x/AoDEAQ" target="_blank">요구사항 정의서</a>
 </p>
 
 <p align="center">
